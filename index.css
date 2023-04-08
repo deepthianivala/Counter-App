@@ -13,15 +13,21 @@ body {
 	margin: auto;
 	overflow: hidden;
 	width: 750px;
-	height: 600px;
+	height: 650px;
 	background: #F5F5F5;
 	box-shadow: 5px 5px 15px rgba(#BA7E7E, .5);
 	border-radius: 10px;
 }
+#heading{
+	text-align: center;
+	color: #571e2a;
+	font-size: 3em;
+	font-family:Verdana;
+}
 #count {
 	text-align: center;
 	font-size: 10em;
-	margin-top: 30px;
+	margin-top: 5px;
 }
 h1{
 	color: #a65e6d;
